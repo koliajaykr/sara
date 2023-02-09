@@ -1,0 +1,30 @@
+---
+title: ""
+toc: false
+---
+
+<br>
+
+## **"Our dream is to empower underrepresented communities through data science."**
+
+<br>
+
+:::: {.grid}
+
+::: {.g-col-6}
+
+![](images/admission23.png){width="150%"}
+
+:::
+
+::: {.g-col-6}
+
+Admissions are opened
+
+Last Date is 13 Feb 2023
+
+[Registration Link](https://forms.gle/xjaDmBPGdRxJSRuG6)
+
+:::
+
+::::

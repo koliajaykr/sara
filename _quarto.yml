@@ -1,0 +1,48 @@
+project:
+  type: website
+
+website:
+  title: "Sara Institute"
+  #favicon: logo.png # the logo for browser
+  site-url: https://koliajay.netlify.app/
+  open-graph: true
+  twitter-card:
+    image: "images/card.jpg"
+    creator: "@ajay_kolii"
+    site: "@sara_institute"
+  
+  navbar:
+    #logo: images/lotus.jpg
+    #href: this website url
+    search: true
+    right:
+      #- text: Home
+        #href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Courses
+        href: courses.qmd  
+      - text: Donate
+        href: support.qmd
+      - text: Contact
+        href: contact.qmd
+      
+        
+  page-footer: 
+    left: "This page is built with Quarto using RStudio by [Ajay Koli](https://koliajay.netlify.app/)"
+    #left: "&copy; CC-By Neel Kamal Trust, India" 
+    right: 
+      - icon: twitter
+        href: https://twitter.com/sara_institute
+        aria-label: Twitter
+
+format:
+  html:
+    theme:
+      light: default
+      dark: darkly
+    css: styles.css
+    toc: true
+    
+editor: source
+

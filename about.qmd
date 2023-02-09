@@ -1,0 +1,28 @@
+---
+toc: false 
+---
+
+# About us
+
+Sara institute is a nonprofit data science organisation in Delhi NCR, India. Our dream is to empower marginalized communities using data science. 
+
+Every year, we admit thirty students from underrepresented communities and give them free residential data science education, projects, and job training. We believe for a better world data science needs to have a diverse perspective.
+
+# Our Values
+
+People first
+
+Open source
+
+# Meet our Team
+
+<div style="width:200px; height:200px">
+
+![](images/ajay.jpg)
+
+</div>
+
+**Ajay Koli**
+
+Founder and Executive Director
+
